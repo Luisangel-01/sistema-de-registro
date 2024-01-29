@@ -5,7 +5,9 @@
 
 - Estado del proyecto: En construcción
 
+  Para ejecutar el sistema, debes poner;
   
+  ```npm instal react```
 
 - `Funcionalidad 1`: descripción de la funcionalidad 1
 -  `Funcionalidad 2`: descripción de la funcionalidad 2
